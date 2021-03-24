@@ -1,5 +1,5 @@
-git config --global user.name "shub....."
-git config --global user.email "shubh.....@gmail.com"
+git config --global user.name "mukesh....."
+git config --global user.email "mukesh.....@gmail.com"
 ls
 git init
 git add .
@@ -8,4 +8,4 @@ git remote add origin "Repository Name"
 git push origin master
 
 
-My URL: https://shubhanshu126.github.io/ORS-Project4/
+My URL: 
